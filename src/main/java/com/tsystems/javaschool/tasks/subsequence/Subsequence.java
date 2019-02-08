@@ -6,7 +6,7 @@ import java.util.List;
 public class Subsequence {
 
     /**
-     * Checks if it is possible to get a sequence which is equal to the first
+     * Checks if it is possible to get a sequenc which is equal to the first
      * one by removing some elements from the second one.
      *
      * @param x first sequence
